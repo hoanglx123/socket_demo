@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "*.ipp": "cpp",
+        "system_error": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "thread": "cpp",
+        "functional": "cpp"
+    }
+}

@@ -1,6 +1,6 @@
 #socket_demo
 
-In the project, I creates 2 programs to demonstrate TCP/IP with socket library:
+In the project, I create 2 programs to demonstrate TCP/IP with socket library:
 - ServerApp_CC++ - Server Program:
 	+ It is programmed with C/C++ programming. 
 	+ I create a socket class as wrapper function to use socket library. 
